@@ -1,10 +1,10 @@
 package Practice;
 
 public class test01 {
-    public void get(){
-        System.out.println("你好");
-    }
+    int h;
+    public void get(){}
    public static class A{
+        test01 t=new test01();
     public  static void print(int num) {
 
          for(int i=31;i>=0;--i){
